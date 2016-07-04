@@ -7,7 +7,6 @@ def versionCompare(v1,operator,v2):
 	if(len(arr2) < length):
 		length = len(arr2)
 
-	flag = 0
 	for i in range(0,length):
 		if(int(arr1[i]) > int(arr2[i])):
 			flag = 1

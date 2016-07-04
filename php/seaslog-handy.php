@@ -1,5 +1,6 @@
 <?php
 /**
+php.ini
 extension = seaslog.so
 */
 

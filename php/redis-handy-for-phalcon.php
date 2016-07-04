@@ -1,11 +1,8 @@
 <?php
 /**
 php.ini
-extension = hprose.so
-extension = seaslog.so
-extension = swoole.so
 extension = redis.so 
-extension=phalcon.so
+extension = phalcon.so
 */
 
 use \Phalcon\Cache\Backend\Redis;

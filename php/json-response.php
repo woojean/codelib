@@ -1,7 +1,4 @@
 <?php
-/**
-
- */
 
 CONST SUCCESS = TRUE;
 CONST FAILED = FALSE;
